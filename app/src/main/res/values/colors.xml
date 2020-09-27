@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#4986CC</color>
+    <color name="textGray">#818C99</color>
+    <color name="toolbarShadow">#0F000000</color>
+    <color name="black">#000000</color>
+    <color name="button_pressed">#B34986CC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="editBackground">#F2F3F5</color>
+    <color name="editBorder">#E1E3E6</color>
+    <color name="line">#5D5F61</color>
+    <color name="statusBarText">#99A2AD</color>
+    <color name="cumminityStroke">#14000000</color>
+    <color name="strokePicked">#3F8AE0</color>
+    <color name="isOpenedColor">#909499</color>
+    <color name="white_06">#0F000000</color>
+    <color name="bottomBar">#F9F9F9</color>
+    <color name="removeFaveColor">#0D001C3D</color>
+
+    <color name="pieceItemName">#71757A</color>
+    <color name="menuColor">#AEB7C2</color>
+</resources>

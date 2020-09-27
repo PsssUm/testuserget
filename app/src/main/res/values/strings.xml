@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Docs</string>
+    <string name="docs_title">Документы</string>
+    <string name="rename">Переименовать</string>
+    <string name="delete">Удалить документ</string>
+    <string name="rename_doc">Переименовать документ</string>
+    <string name="doc_must_have_2">Название документа должны быть длиннее 2-ух символов</string>
+    <string name="enter_new_name">Введите новое название</string>
+    <string name="open_vk">Открыть в браузере</string>
+
+    <integer name="com_vk_sdk_AppId">7333718</integer>
+
+</resources>
