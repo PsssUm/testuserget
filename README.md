@@ -1,6 +1,7 @@
 # testuserget
 Во фрагменте DocsFragment найдешь код, который вызывает метод loadUser
-private fun loadUser(){
+    
+    private fun loadUser(){
         L.d("loadUser")
         VK.execute(VKUsersGet(context!!), object :
             VKApiCallback<VKUser> {
